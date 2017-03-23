@@ -7,7 +7,7 @@ Please visit [dev.jamasoftware.com](http://dev.jamasoftware.com) for additional 
 ## Why Connect Jama to your Automated Testing Tool?
 Jama is used for managing requirements and the manual test cases that validate and verify those requirements.  Jama provides traceability between the various layers of requirements down to manual test cases so teams can ensure test coverage and show the results of those manual tests.  However, many teams also validate/verify their requirements through automated testing via a separate Automation Test Tool (ATT).  If you want to demonstrate traceability from your requirements to both manual AND automated testing results in Jama, you can leverage Jama’s API to bring automated test results into Jama.
 
-For more information about which of the approaches below is better for your team see [this article](http://success.jamasoftware.com/resources/connecting-jama-to-your-automated-testing-tool/).
+For more information about which of the approaches below is better for your team see [this article](https://community.jamasoftware.com/blogs/iman-bilal/2017/01/25/connecting-jama-to-your-automated-testing-tool).
 
 ### Jama Initiated Tests
 Jama’s manual test center offers functionality for your team to manually create Test Cases and Test Plans for executing those tests.  It also offers some out of the box reporting via Test Plan summary and Test Plan detail reports.  Teams familiar with using Jama’s test center to execute manual test cases can use a similar approach to initiate automated tests directly from Jama.
